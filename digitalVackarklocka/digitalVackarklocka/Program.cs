@@ -10,21 +10,38 @@ namespace digitalVackarklocka
     {
         static void Main(string[] args)
         {
-            // try catch-satser som tar hjälp av test-metoder
+            // Instansierar AlarmClock-objekt
+            AlarmClock alarmClock = new AlarmClock();
+
+            // test av standardkonstruktor
+
+            // testa standardkonstruktor med 2 parametrar
+
+            // testa standardkonstruktor med 4 parametrar
+
+            // testa TickTock()-metoden
+
+            // testa att alarm indikeras
+
+            // testa egenskaper för undantag för felaktiga tider
+
+            // testa konstruktorer för undantag för felaktiga tider
         }
 
-        // test av standardkonstruktor
+        private static void Run(AlarmClock ac, int minutes)
+        {
+            // AlarmClock-objekt som anropar TickTock upprepade ggr
+        }
 
-        // testa standardkonstruktor med 2 parametrar
+        private static void ViewErrorMessage(string message)
+        {
+            // tar felmeddelande som argument och presenterar det
+        }
 
-        // testa standardkonstruktor med 4 parametrar
+        private static void ViewTestHeader(string header)
+        {
+            // tar sträng som argument och presenterar strängen
+        }
 
-        // testa TickTock()-metoden
-
-        // testa att alarm indikeras
-
-        // testa egenskaper för undantag för felaktiga tider
-
-        // testa konstruktorer för undantag för felaktiga tider
     }
 }
