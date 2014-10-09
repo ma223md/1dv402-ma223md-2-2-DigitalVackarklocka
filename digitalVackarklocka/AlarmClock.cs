@@ -30,13 +30,15 @@ namespace DigitalVackarklocka
             // konstruktor som initierar fälten till deras standardvärden
             public AlarmClock()
             {
-                //kalla på konstruktorn alarmclock med 2 parametrar
+                // kalla på konstruktor med 2 parametrar
+                AlarmClock(1, 2);
             }
 
             // konstruktor med 2 parametrar
             public AlarmClock(int hour, int minute)
             {
                 // kalla på konstruktorn med 4 parametrar
+                AlarmClock(1, 2, 3, 4);
             }
 
             // konstruktor med 4 parametrar

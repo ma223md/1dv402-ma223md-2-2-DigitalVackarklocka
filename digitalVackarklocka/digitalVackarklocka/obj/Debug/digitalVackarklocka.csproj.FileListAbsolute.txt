@@ -1,3 +1,11 @@
 C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-1-3godtyckligLonerevision\digitalVackarklocka\digitalVackarklocka\bin\Debug\digitalVackarklocka.exe.config
 C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-2-DigitalVackarklocka\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\bin\Debug\digitalVackarklocka.exe.config
 C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-2-DigitalVackarklocka\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\obj\Debug\digitalVackarklocka.csprojResolveAssemblyReference.cache
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\bin\Debug\digitalVackarklocka.exe.config
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\bin\Debug\digitalVackarklocka.exe
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\bin\Debug\digitalVackarklocka.pdb
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\obj\Debug\digitalVackarklocka.csprojResolveAssemblyReference.cache
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\obj\Debug\digitalVackarklocka.exe
+C:\Users\Moe\Documents\Visual Studio 2013\Projects\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\obj\Debug\digitalVackarklocka.pdb
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-2-DigitalVackarklocka\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\obj\Debug\digitalVackarklocka.exe
+C:\Users\Moe\Documents\Skolarbete\Inledande programmering C#\Laborationer\1dv402-ma223md-2-2-DigitalVackarklocka\1dv402-ma223md-2-2-DigitalVackarklocka\digitalVackarklocka\digitalVackarklocka\obj\Debug\digitalVackarklocka.pdb
